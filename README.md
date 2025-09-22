@@ -33,4 +33,4 @@ Se preferir rodar localmente:
 
 1. Clone este repositório:  
    ```bash
-   git clone www.link.com.br
+   git clone https://github.com/GabrielMatos21/Sorteador-Amigo-Secreto/tree/main
